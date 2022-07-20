@@ -5,8 +5,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //annotation spring app
 @SpringBootApplication
 public class KpiApplication {
+<<<<<<< HEAD
 
 	//comment
+=======
+	//comment
+	//comment 2
+	//comment 3
+>>>>>>> dev
 	public static void main(String[] args) {
 		SpringApplication.run(KpiApplication.class, args);
 	}
